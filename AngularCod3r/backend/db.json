@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Xiaomi Redmi Note 5",
+      "price": 850
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 150.5,
+      "id": 3
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 150.5,
+      "id": 4
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 150.5,
+      "id": 5
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 150.5,
+      "id": 6
+    },
+    {
+      "name": "Diguidim",
+      "price": "300",
+      "id": 7
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 150.5,
+      "id": 8
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 150.5,
+      "id": 9
+    },
+    {
+      "name": "Chatuba",
+      "price": "25.50",
+      "id": 10
+    },
+    {
+      "name": "Tefelone",
+      "price": "Jonatas",
+      "id": 11
+    }
+  ]
+}
